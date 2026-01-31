@@ -1,16 +1,4 @@
-# AC215 - Milestone5 - Daily Meal Assistant - "What to Eat Today"
-
-**Team Members**
-
-Hanqi(Hanna) Zeng(hanqizeng@hsph.harvard.edu)  <br/> 
-Chris Wang(ywang3@hsph.harvard.edu)   <br/> 
-Selina Qian(jingyun_qian@hsph.harvard.edu) <br/> 
-Shiyu Ma(shiyuma@g.harvard.edu)  <br/> 
-Cassie Dai(cdai@g.harvard.edu) <br/> 
-
-
-**Group Name**
-Dashers
+# xDashers
 
 **Project**
 In this project, we aim to develop an app that serves as a personal meal assistant, helping users track their available ingredients, suggest healthy recipes, and recommend nearby restaurants based on user preferences and current inventory. The app will combine advanced AI tools like object detection and large language models (LLMs) to provide tailored meal recommendations and route suggestions for dining out. <br/>
